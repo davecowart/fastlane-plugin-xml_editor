@@ -44,6 +44,11 @@ fastlane remove
 fastlane add
 ```
 
+### get
+```
+fastlane get
+```
+
 
 ----
 
